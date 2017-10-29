@@ -1,9 +1,6 @@
 Documentacion 
 -------------------------------------------
-Para poder migrar los servidores de Redhat/CentOS a Ubuntu server
--------------------------------------------
 Configuracion de los dockers
-
 
 primer paso, creación y configuraciones de dockers
 -------------------------------------------
