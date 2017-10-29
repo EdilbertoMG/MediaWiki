@@ -1,6 +1,6 @@
 ---
 - name: Configurando Server con MediaWiki
-  hosts: main
+  hosts: webservers
   remote_user: root
   roles:
     - MediaWiki
