@@ -1,6 +1,6 @@
 ---
 - name: Configurando Apache
-  hosts: main
+  hosts: webservers
   remote_user: root
   roles:
     - Apache
