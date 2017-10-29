@@ -26,3 +26,4 @@ ansible-playbook -i hosts Apache.yml
 ```
 ansible-playbook -i hosts MediaWiki.yml
 ```
+NOTA: en el Diseño se muestra que el servidor web sera nginx pero en la practica se opto por utilizar apache2
