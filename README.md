@@ -16,7 +16,7 @@ Ingresa a la carpeta ```Dockerfile``` y sigue los pasos indicados.
 -------------------------------------------
 
 ### Luego de hacer los pasos en la carpeta Dockerfile haga lo siguiente: 
-Ejecute los siguiente comandos
+Ejecute los siguiente comandos:
 ``` 
 ansible-playbook -i hosts Mysql.yml
 ```
