@@ -1,5 +1,5 @@
 ## Diseño
-<img src="https://raw.githubusercontent.com/edil-gutierrez/MediaWiki/master/MediaWiki%20Diagrama.pngf" />
+<img src="https://raw.githubusercontent.com/edil-gutierrez/MediaWiki/master/MediaWiki%20Diagrama.png" />
 
 ## Preliminares
 Para realizar las prácticas debes tener instalado en el equipo o servidor de pruebas:
