@@ -1,3 +1,7 @@
+## Diseño
+<IMG SRC="https://raw.githubusercontent.com/edil-gutierrez/MediaWiki/master/MediaWiki%20Diagrama.pngf">
+
+
 ## Preliminares
 Para realizar las prácticas debes tener instalado en el equipo o servidor de pruebas:
   - Docker
