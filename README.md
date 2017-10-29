@@ -40,9 +40,10 @@ Para poder crear los contenedores se optó por hacer un ```Dockerfile```, para c
 Dentro de los contenedores los cuales llamaremos ```web_server``` y ```mysql_server```.
 
 Dentro de estos 2 contenedores se instalarán los roles dado de la siguiente manera: 
-```Apache y MediaWiki dentro del contenedor web_server.
+- ```Apache``` y ```MediaWiki``` dentro del contenedor ```web_server```.
 
-   MySql dentro del contenedor mysql_server.
-```
-Luego de haber realizado toda esta guía paso a paso ya se podrá ingresar al puerto que quedo abierto para ingresar por el navegador que es el 8080.
+- ```MySql``` dentro del contenedor ```mysql_server```.
+
+
+Luego de haber realizado toda esta guía paso a paso ya se podrá ingresar al puerto que quedo abierto para ingresar por el navegador que es el ```8080```.
 
