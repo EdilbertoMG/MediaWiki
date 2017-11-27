@@ -49,7 +49,9 @@ Ejecutamos los siguientes comandos para darle los ```permisos 0600``` que son lo
 ```
 chmod 0600 ../key.private
 ```
-
+```
+chmod 0600 authorized_keys
+```
 ```
 ssh -o StrictHostKeyChecking=no root@web_server -p 2221 -i ../key.private hostname
 ```
