@@ -45,6 +45,6 @@ Dentro de estos 2 contenedores se instalarán los roles dado de la siguiente man
 - ```MySql``` dentro del contenedor ```mysql_server```.
 
 
-Luego de haber realizado toda esta guía paso a paso ya se podrá ingresar al puerto que quedo abierto para ingresar por el navegador que es el ```80```.
+Luego de haber realizado toda esta guía paso a paso ya se podrá ingresar al la IP ```127.0.0.1:80``` con cualquier navegador web.
 
 
