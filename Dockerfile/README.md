@@ -8,7 +8,7 @@ primer paso, creación y configuraciones de dockers
 1. Debes construir un docker personalizado que incluye el servidor openssh,
 
 ```
-docker build -t mediawiki . 
+docker build -t server:16.04 . 
 ```
 En el paso anterior debes verificar el ID de la imágen que se creó y seleccionarla para los pasos a continuación.
 
@@ -24,11 +24,11 @@ web_server afectara los puertos 2221:22 y 80:80.
 mysql_server afectara los puertos 2222:22 y 3306:3306
 
 ```
-docker run -d -P --name web_server -p 2221:22 -p 80:80 mediawiki
+docker run -d -P --name web_server -p 2221:22 -p 80:80 server:16.04
 ```
 
 ```
-docker run -d -P --name mysql_server -p 2222:22 -p 3306:3306 mediawiki
+docker run -d -P --name mysql_server -p 2222:22 -p 3306:3306 server:16.04
 ```
 
 Tercer paso, configuración de alias
